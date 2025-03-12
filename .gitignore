@@ -1,0 +1,16 @@
+# dependencies installed by npm
+node_modules
+.history
+.nextx
+.next/cache`
+
+# build artefacts
+css
+
+# secrets and errors
+.env
+.env.local
+.log
+
+# macOS related files
+.DS_Store
